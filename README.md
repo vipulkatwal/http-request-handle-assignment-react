@@ -79,4 +79,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## For Live Preview
 
-Click Here: https://http-request-assignment.vercel.app/
+Click Here: https://http-request-handle-assignment-react.vercel.app/
