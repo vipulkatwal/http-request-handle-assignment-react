@@ -1,6 +1,38 @@
-# Getting Started with Create React App
+# HttpRequestAssignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Http Request Screenshot](./public/screenshot.png)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses Tailwind CSS for styling.
+
+## Assignment: HTTP Request Handling
+
+### Task
+Build a React service to fetch data from a REST API and display it in a component.
+
+### Requirements
+- **Create a React custom hook** to handle HTTP requests using `fetch` or `axios`.
+- **Fetch data** from a mock REST API endpoint.
+- **Display the fetched data** in a component.
+- **Implement error handling** for failed HTTP requests.
+
+### Evaluation Criteria
+- Proper implementation of the React custom hook for HTTP requests.
+- Correct handling of asynchronous data retrieval.
+- Effective error handling for HTTP request failures.
+- Proper display of fetched data in the component.
+
+### Guidelines
+- Focus on writing clean, well-organized code.
+- Prefer avoiding pre-defined functions/libraries.
+- Pay attention to the design and layout of the user interface.
+- Implement sorting functionality using any method you like.
+- Ensure the application is responsive and works well on both desktop and mobile devices.
+- Feel free to use any additional libraries or frameworks if necessary.
+
+### Styling with Tailwind CSS
+- This project uses Tailwind CSS for utility-first styling.
+- Ensure that Tailwind CSS classes are used to achieve a clean and responsive design.
+- Refer to the [Tailwind CSS documentation](https://tailwindcss.com/docs) for class utilities and customization.
 
 ## Available Scripts
 
@@ -45,26 +77,6 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## For Live Preview
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Click Here: https://http-request-assignment.vercel.app/
